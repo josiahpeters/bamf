@@ -39,4 +39,4 @@
 [Dd]ebug/
 
 # Exclude ignoring included files
-!src/Include/*
+!/src/[Ii]nclude/**
