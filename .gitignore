@@ -26,3 +26,17 @@
 *.exe
 *.out
 *.app
+
+*.log
+
+# Visual Studio Files
+*.sdf
+*.suo
+*.user
+*.cache
+
+# Ignore the output directory 
+[Dd]ebug/
+
+# Exclude ignoring included files
+!src/Include/*
